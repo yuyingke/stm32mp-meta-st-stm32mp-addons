@@ -1,0 +1,7 @@
+[PreviousGenFiles]
+SourceFiles=;
+
+[PreviousUsedCubeIDEFiles]
+SourceFiles=Src\system_stm32mp13xx.c;Src\system_stm32mp13xx.c;;;
+CDefines=CORE_CA7;
+
